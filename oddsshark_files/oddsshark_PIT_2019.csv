@@ -1,0 +1,163 @@
+Date,Opponent,Game,Result,Score,Line,OU,Total,team_source,season,date_numeric,game_no,prob_implied,dblheader_num
+"Mar 28, 2024",@ Miami,REG,,,,,,PIT,2019,20240328,1,,0
+"Mar 29, 2024",@ Miami,REG,,,,,,PIT,2019,20240329,2,,0
+"Mar 30, 2024",@ Miami,REG,,,,,,PIT,2019,20240330,3,,0
+"Mar 31, 2024",@ Miami,REG,,,,,,PIT,2019,20240331,4,,0
+"Apr 1, 2024",@ Washington,REG,,,,,,PIT,2019,20240401,5,,0
+"Apr 3, 2024",@ Washington,REG,,,,,,PIT,2019,20240403,6,,0
+"Apr 4, 2024",@ Washington,REG,,,,,,PIT,2019,20240404,7,,0
+"Apr 5, 2024",vs Baltimore,REG,,,,,,PIT,2019,20240405,8,,0
+"Apr 6, 2024",vs Baltimore,REG,,,,,,PIT,2019,20240406,9,,0
+"Apr 7, 2024",vs Baltimore,REG,,,,,,PIT,2019,20240407,10,,0
+"Apr 8, 2024",vs Detroit,REG,,,,,,PIT,2019,20240408,11,,0
+"Apr 9, 2024",vs Detroit,REG,,,,,,PIT,2019,20240409,12,,0
+"Apr 11, 2024",@ Philadelphia,REG,,,,,,PIT,2019,20240411,13,,0
+"Apr 12, 2024",@ Philadelphia,REG,,,,,,PIT,2019,20240412,14,,0
+"Apr 13, 2024",@ Philadelphia,REG,,,,,,PIT,2019,20240413,15,,0
+"Apr 14, 2024",@ Philadelphia,REG,,,,,,PIT,2019,20240414,16,,0
+"Apr 15, 2024",@ NY Mets,REG,,,,,,PIT,2019,20240415,17,,0
+"Apr 16, 2024",@ NY Mets,REG,,,,,,PIT,2019,20240416,18,,0
+"Apr 17, 2024",@ NY Mets,REG,,,,,,PIT,2019,20240417,19,,0
+"Apr 19, 2024",vs Boston,REG,,,,,,PIT,2019,20240419,20,,0
+"Apr 20, 2024",vs Boston,REG,,,,,,PIT,2019,20240420,21,,0
+"Apr 21, 2024",vs Boston,REG,,,,,,PIT,2019,20240421,22,,0
+"Apr 22, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240422,23,,0
+"Apr 23, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240423,24,,0
+"Apr 24, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240424,25,,0
+"Apr 25, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240425,26,,0
+"Apr 26, 2024",@ San Francisco,REG,,,,,,PIT,2019,20240426,27,,0
+"Apr 27, 2024",@ San Francisco,REG,,,,,,PIT,2019,20240427,28,,0
+"Apr 28, 2024",@ San Francisco,REG,,,,,,PIT,2019,20240428,29,,0
+"Apr 29, 2024",@ Oakland,REG,,,,,,PIT,2019,20240429,30,,0
+"Apr 30, 2024",@ Oakland,REG,,,,,,PIT,2019,20240430,31,,0
+"May 1, 2024",@ Oakland,REG,,,,,,PIT,2019,20240501,32,,0
+"May 3, 2024",vs Colorado,REG,,,,,,PIT,2019,20240503,33,,0
+"May 4, 2024",vs Colorado,REG,,,,,,PIT,2019,20240504,34,,0
+"May 5, 2024",vs Colorado,REG,,,,,,PIT,2019,20240505,35,,0
+"May 6, 2024",vs LA Angels,REG,,,,,,PIT,2019,20240506,36,,0
+"May 7, 2024",vs LA Angels,REG,,,,,,PIT,2019,20240507,37,,0
+"May 8, 2024",vs LA Angels,REG,,,,,,PIT,2019,20240508,38,,0
+"May 10, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240510,39,,0
+"May 11, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240511,40,,0
+"May 12, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240512,41,,0
+"May 13, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240513,42,,0
+"May 14, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240514,43,,0
+"May 15, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240515,44,,0
+"May 16, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240516,45,,0
+"May 17, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240517,46,,0
+"May 18, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240518,47,,0
+"May 19, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240519,48,,0
+"May 21, 2024",vs San Francisco,REG,,,,,,PIT,2019,20240521,49,,0
+"May 22, 2024",vs San Francisco,REG,,,,,,PIT,2019,20240522,50,,0
+"May 23, 2024",vs San Francisco,REG,,,,,,PIT,2019,20240523,51,,0
+"May 24, 2024",vs Atlanta,REG,,,,,,PIT,2019,20240524,52,,0
+"May 25, 2024",vs Atlanta,REG,,,,,,PIT,2019,20240525,53,,0
+"May 26, 2024",vs Atlanta,REG,,,,,,PIT,2019,20240526,54,,0
+"May 28, 2024",@ Detroit,REG,,,,,,PIT,2019,20240528,55,,0
+"May 29, 2024",@ Detroit,REG,,,,,,PIT,2019,20240529,56,,0
+"May 31, 2024",@ Toronto,REG,,,,,,PIT,2019,20240531,57,,0
+"Jun 1, 2024",@ Toronto,REG,,,,,,PIT,2019,20240601,58,,0
+"Jun 2, 2024",@ Toronto,REG,,,,,,PIT,2019,20240602,59,,0
+"Jun 4, 2024",vs LA Dodgers,REG,,,,,,PIT,2019,20240604,60,,0
+"Jun 5, 2024",vs LA Dodgers,REG,,,,,,PIT,2019,20240605,61,,0
+"Jun 6, 2024",vs LA Dodgers,REG,,,,,,PIT,2019,20240606,62,,0
+"Jun 7, 2024",vs Minnesota,REG,,,,,,PIT,2019,20240607,63,,0
+"Jun 8, 2024",vs Minnesota,REG,,,,,,PIT,2019,20240608,64,,0
+"Jun 9, 2024",vs Minnesota,REG,,,,,,PIT,2019,20240609,65,,0
+"Jun 11, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240611,66,,0
+"Jun 12, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240612,67,,0
+"Jun 13, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240613,68,,0
+"Jun 14, 2024",@ Colorado,REG,,,,,,PIT,2019,20240614,69,,0
+"Jun 15, 2024",@ Colorado,REG,,,,,,PIT,2019,20240615,70,,0
+"Jun 16, 2024",@ Colorado,REG,,,,,,PIT,2019,20240616,71,,0
+"Jun 17, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240617,72,,0
+"Jun 18, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240618,73,,0
+"Jun 19, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240619,74,,0
+"Jun 21, 2024",vs Tampa Bay,REG,,,,,,PIT,2019,20240621,75,,0
+"Jun 22, 2024",vs Tampa Bay,REG,,,,,,PIT,2019,20240622,76,,0
+"Jun 23, 2024",vs Tampa Bay,REG,,,,,,PIT,2019,20240623,77,,0
+"Jun 24, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240624,78,,0
+"Jun 25, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240625,79,,0
+"Jun 26, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240626,80,,0
+"Jun 28, 2024",@ Atlanta,REG,,,,,,PIT,2019,20240628,81,,0
+"Jun 29, 2024",@ Atlanta,REG,,,,,,PIT,2019,20240629,82,,0
+"Jun 30, 2024",@ Atlanta,REG,,,,,,PIT,2019,20240630,83,,0
+"Jul 2, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240702,84,,0
+"Jul 3, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240703,85,,0
+"Jul 4, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240704,86,,0
+"Jul 5, 2024",vs NY Mets,REG,,,,,,PIT,2019,20240705,87,,0
+"Jul 6, 2024",vs NY Mets,REG,,,,,,PIT,2019,20240706,88,,0
+"Jul 7, 2024",vs NY Mets,REG,,,,,,PIT,2019,20240707,89,,0
+"Jul 8, 2024",vs NY Mets,REG,,,,,,PIT,2019,20240708,90,,0
+"Jul 9, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240709,91,,0
+"Jul 10, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240710,92,,0
+"Jul 11, 2024",@ Milwaukee,REG,,,,,,PIT,2019,20240711,93,,0
+"Jul 12, 2024",@ Chi White Sox,REG,,,,,,PIT,2019,20240712,94,,0
+"Jul 13, 2024",@ Chi White Sox,REG,,,,,,PIT,2019,20240713,95,,0
+"Jul 14, 2024",@ Chi White Sox,REG,,,,,,PIT,2019,20240714,96,,0
+"Jul 19, 2024",vs Philadelphia,REG,,,,,,PIT,2019,20240719,97,,0
+"Jul 20, 2024",vs Philadelphia,REG,,,,,,PIT,2019,20240720,98,,0
+"Jul 21, 2024",vs Philadelphia,REG,,,,,,PIT,2019,20240721,99,,0
+"Jul 22, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240722,100,,0
+"Jul 23, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240723,101,,0
+"Jul 24, 2024",vs St. Louis,REG,,,,,,PIT,2019,20240724,102,,0
+"Jul 26, 2024",@ Arizona,REG,,,,,,PIT,2019,20240726,103,,0
+"Jul 27, 2024",@ Arizona,REG,,,,,,PIT,2019,20240727,104,,0
+"Jul 28, 2024",@ Arizona,REG,,,,,,PIT,2019,20240728,105,,0
+"Jul 29, 2024",@ Houston,REG,,,,,,PIT,2019,20240729,106,,0
+"Jul 30, 2024",@ Houston,REG,,,,,,PIT,2019,20240730,107,,0
+"Jul 31, 2024",@ Houston,REG,,,,,,PIT,2019,20240731,108,,0
+"Aug 2, 2024",vs Arizona,REG,,,,,,PIT,2019,20240802,109,,0
+"Aug 3, 2024",vs Arizona,REG,,,,,,PIT,2019,20240803,110,,0
+"Aug 4, 2024",vs Arizona,REG,,,,,,PIT,2019,20240804,111,,0
+"Aug 6, 2024",vs San Diego,REG,,,,,,PIT,2019,20240806,112,,0
+"Aug 7, 2024",vs San Diego,REG,,,,,,PIT,2019,20240807,113,,0
+"Aug 8, 2024",vs San Diego,REG,,,,,,PIT,2019,20240808,114,,0
+"Aug 9, 2024",@ LA Dodgers,REG,,,,,,PIT,2019,20240809,115,,0
+"Aug 10, 2024",@ LA Dodgers,REG,,,,,,PIT,2019,20240810,116,,0
+"Aug 11, 2024",@ LA Dodgers,REG,,,,,,PIT,2019,20240811,117,,0
+"Aug 12, 2024",@ San Diego,REG,,,,,,PIT,2019,20240812,118,,0
+"Aug 13, 2024",@ San Diego,REG,,,,,,PIT,2019,20240813,119,,0
+"Aug 14, 2024",@ San Diego,REG,,,,,,PIT,2019,20240814,120,,0
+"Aug 16, 2024",vs Seattle,REG,,,,,,PIT,2019,20240816,121,,0
+"Aug 17, 2024",vs Seattle,REG,,,,,,PIT,2019,20240817,122,,0
+"Aug 18, 2024",vs Seattle,REG,,,,,,PIT,2019,20240818,123,,0
+"Aug 19, 2024",@ Texas,REG,,,,,,PIT,2019,20240819,124,,0
+"Aug 20, 2024",@ Texas,REG,,,,,,PIT,2019,20240820,125,,0
+"Aug 21, 2024",@ Texas,REG,,,,,,PIT,2019,20240821,126,,0
+"Aug 22, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240822,127,,0
+"Aug 23, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240823,128,,0
+"Aug 24, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240824,129,,0
+"Aug 25, 2024",vs Cincinnati,REG,,,,,,PIT,2019,20240825,130,,0
+"Aug 26, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240826,131,,0
+"Aug 27, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240827,132,,0
+"Aug 28, 2024",vs Chi Cubs,REG,,,,,,PIT,2019,20240828,133,,0
+"Aug 30, 2024",@ Cleveland,REG,,,,,,PIT,2019,20240830,134,,0
+"Aug 31, 2024",@ Cleveland,REG,,,,,,PIT,2019,20240831,135,,0
+"Sep 1, 2024",@ Cleveland,REG,,,,,,PIT,2019,20240901,136,,0
+"Sep 2, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240902,137,,0
+"Sep 3, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240903,138,,0
+"Sep 4, 2024",@ Chi Cubs,REG,,,,,,PIT,2019,20240904,139,,0
+"Sep 5, 2024",vs Washington,REG,,,,,,PIT,2019,20240905,140,,0
+"Sep 6, 2024",vs Washington,REG,,,,,,PIT,2019,20240906,141,,0
+"Sep 7, 2024",vs Washington,REG,,,,,,PIT,2019,20240907,142,,0
+"Sep 8, 2024",vs Washington,REG,,,,,,PIT,2019,20240908,143,,0
+"Sep 9, 2024",vs Miami,REG,,,,,,PIT,2019,20240909,144,,0
+"Sep 10, 2024",vs Miami,REG,,,,,,PIT,2019,20240910,145,,0
+"Sep 11, 2024",vs Miami,REG,,,,,,PIT,2019,20240911,146,,0
+"Sep 13, 2024",vs Kansas City,REG,,,,,,PIT,2019,20240913,147,,0
+"Sep 14, 2024",vs Kansas City,REG,,,,,,PIT,2019,20240914,148,,0
+"Sep 15, 2024",vs Kansas City,REG,,,,,,PIT,2019,20240915,149,,0
+"Sep 16, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240916,150,,0
+"Sep 17, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240917,151,,0
+"Sep 18, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240918,152,,0
+"Sep 19, 2024",@ St. Louis,REG,,,,,,PIT,2019,20240919,153,,0
+"Sep 20, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240920,154,,0
+"Sep 21, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240921,155,,0
+"Sep 22, 2024",@ Cincinnati,REG,,,,,,PIT,2019,20240922,156,,0
+"Sep 24, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240924,157,,0
+"Sep 25, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240925,158,,0
+"Sep 26, 2024",vs Milwaukee,REG,,,,,,PIT,2019,20240926,159,,0
+"Sep 27, 2024",@ NY Yankees,REG,,,,,,PIT,2019,20240927,160,,0
+"Sep 28, 2024",@ NY Yankees,REG,,,,,,PIT,2019,20240928,161,,0
+"Sep 29, 2024",@ NY Yankees,REG,,,,,,PIT,2019,20240929,162,,0
